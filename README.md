@@ -21,6 +21,12 @@ versions 2.6 and 3.2-3.3) or
 The `pysnmpcrypto` package is distributed under terms and conditions of the
 2-clause [BSD license](http://snmplabs.com/pysnmpcrypto/license.html).
 
+Why this fork?
+--------------
+[Original project](https://github.com/etingof/snmpsim) by [Ilya Etingof](https://github.com/etingof) seems not to be continued anymore.
+Because of that, we try to maintain / enhance SNMP simulator. 
+
+
 Download & Install
 ------------------
 
@@ -41,9 +47,11 @@ Documentation
 
 The `pysnmpcrypto` library does not expose any user-intended API. Documentation
 and usage examples on the `pysnmp` library use can be found at the
-[pysnmp project site](http://snmplabs.com/pysnmp/).
+[pysnmp project site](http://snmplabs.thola.io/pysnmp/).
 
 If something does not work as expected with `pysnmpcrypto`, please
-[open an issue](https://github.com/etingof/pysnmpcrypto/issues) at GitHub.
+[open an issue](https://github.com/inexio/pysnmpcrypto/issues) at GitHub.
+
+If you want to contact us, please mail to the [Thola Team](mailto:snmplabs@thola.io)
 
 Copyright (c) 2018-2019, [Ilya Etingof](mailto:etingof@gmail.com). All rights reserved.
